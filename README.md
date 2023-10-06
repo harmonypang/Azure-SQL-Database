@@ -1,2 +1,2 @@
 # azure-sql-database
- My implementation for a Relational database named "HarmonyDB" in Azure SQL database.
+ My implementation for a Relational database in Azure SQL database.
